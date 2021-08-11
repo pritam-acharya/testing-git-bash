@@ -1,0 +1,15 @@
+ Volume in drive C is OS
+ Volume Serial Number is EEAC-B3F9
+
+ Directory of C:\Users\ASUS\PycharmProjects
+
+08/11/2021  08:12 PM    <DIR>          .
+08/11/2021  08:12 PM    <DIR>          ..
+07/13/2021  12:25 AM    <DIR>          HelloWorld
+06/09/2021  03:09 PM    <DIR>          pythonEX1
+06/10/2021  12:34 AM    <DIR>          pythonEX2
+08/01/2021  09:21 PM    <DIR>          pythonEX3
+06/12/2021  11:36 PM    <DIR>          pythonEX4
+08/11/2021  08:12 PM                 0 test.txt
+               1 File(s)              0 bytes
+               7 Dir(s)  881,728,671,744 bytes free

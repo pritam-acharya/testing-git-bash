@@ -8,7 +8,7 @@ count = 0   # set the initial count to 0
 if n <= 0:
    print("Please enter a positive integer")
 elif n == 1:
-   print("Fibonacci sequence upto",n,":")
+   print("Fibonacci sequence uptill",n,":")
    print(n1)
 else:
    print("Fibonacci sequence:")
